@@ -15,5 +15,4 @@ def convert_glb_to_usd(input_glb, output_usd): # 清空现有场景（如果有�
 convert_to_usda.py和convert_to_usd.py
 
 使用正常时候的截图应为：
-
-![image-20251215144501014](C:\Users\26871\AppData\Roaming\Typora\typora-user-images\image-20251215144501014.png)
+<img width="1098" height="417" alt="image" src="https://github.com/user-attachments/assets/b02d99ea-93dd-4f8f-be3a-74cdf2a6bc15" />
